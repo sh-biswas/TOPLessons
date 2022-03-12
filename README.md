@@ -7,4 +7,6 @@ This repository will consist of the lessons that I'll go through in The Odin Pro
 - [x] Git Basics
 
 ## HTML Foundations
+- [x] Introduction to HTML and CSS
+- [x] Elements and Tags
 - [x] HTML Boilerplate
