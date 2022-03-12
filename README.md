@@ -10,3 +10,4 @@ This repository will consist of the lessons that I'll go through in The Odin Pro
 - [x] Introduction to HTML and CSS
 - [x] Elements and Tags
 - [x] HTML Boilerplate
+- [x] Working With Text
